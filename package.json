@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@11ty/eleventy": "github:11ty/eleventy"
+  },
+  "dependencies": {
+    "luxon": "^2.0.1"
+  }
+}
